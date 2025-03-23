@@ -1,1 +1,7 @@
 print("Hello World!")
+print("Hello Global World!")
+print("Hello World!")
+print("Hello Global World!")
+print("Hello World!")
+print("Hello Global World!")
+print("Hello World!")
